@@ -11,7 +11,8 @@
     "@types/angular-animate": "^1.5.10",
     "@types/jquery": "^3.5.5",
     "live-server": "^1.2.1",
-    "systemjs": "^0.19.47"
+    "systemjs": "^0.19.47",
+    "typescript": "^3.6.3"
   },
   "dependencies": {
     "angular": "^1.8.2",
@@ -20,7 +21,6 @@
     "angular-material": "github:angular/bower-material",
     "angular-messages": "^1.8.2",
     "angular-sanitize": "^1.8.2",
-    "typescript": "^3.6.3",
     "axios": "^0.24.0"
   },
   "scripts": {
