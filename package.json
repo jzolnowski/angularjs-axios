@@ -2,7 +2,7 @@
   "name": "material-axsios",
   "private": true,
   "version": "1.0.0",
-  "description": "A TypeScript project for AngularJS Start",
+  "description": "A TypeScript project for AngularJS with Axios",
   "repository": "https://github.com/jzolnowski/angularjs-axios",
   "license": "MIT",
   "devDependencies": {
